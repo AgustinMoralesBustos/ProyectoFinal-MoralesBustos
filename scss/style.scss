@@ -1,0 +1,19 @@
+/*UTILITIES*/
+@import "./utilities/_variables";
+@import "./utilities/_mixings.scss";
+
+/*BASE*/
+@import "./base/_resets";
+
+/*LAYOUT*/
+@import "./layout/navbar";
+@import "./layout/header-index";
+@import "./layout/main-plantel";
+@import "./layout/cards-club-partidos";
+@import "./layout/footer";
+@import "./layout/_forms.scss";
+@import "./layout/media/_media709";
+
+/*COMPONENTS*/
+
+

@@ -1,0 +1,19 @@
+footer {
+    background-color: $footercolor;
+    color: $fontcolor1;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid $footerbordercolor;
+}
+
+Footer a {
+    text-decoration: none;
+}
+
+footer a img{
+    height: 1.8rem;
+    width: 1.8rem;
+}

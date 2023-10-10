@@ -1,0 +1,48 @@
+/*TIPOGRAFIAS*/
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: $fontcolor1;
+    margin: 0px;
+    padding: 1em;
+    font-family: 'Dela Gothic One', cursive;
+}
+h2{
+    color: $fontcolor1;
+    font-family: 'Amatic SC', cursive;
+}
+h3{
+    color: $fontcolor1;
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    color: $fontcolor1;
+    font-family: 'Roboto', sans-serif;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+}
+h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    color: $fontcolor1;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color: $backgraundcolor;
+}

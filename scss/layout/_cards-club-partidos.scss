@@ -1,0 +1,14 @@
+.club,.partidos{
+    @include section-card;
+}
+.club-img,.partidos-img{
+    @include img-card;
+}
+
+.club-texto-box,.partidos-texto-box{
+    @include box-card;
+}
+
+.club-texto,.partidos-texto{
+    @include texto-card;
+}
